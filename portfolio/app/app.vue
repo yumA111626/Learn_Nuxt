@@ -1,10 +1,5 @@
 <template>
-  <NuxtLayout > <!-- 直接指定して記載する場合 :name="another" -->
+  <NuxtLayout >
     <NuxtPage />
   </NuxtLayout>
 </template>
-
-<!-- 直接指定して記載する場合 -->
-  <!-- <script setup>
-    const another = "custom"
-  </script> -->
